@@ -26,14 +26,3 @@ The way I've been thinking about this at a high level is that it's like *Signal*
 The social part is all configurable too, at a pretty granular level. So you can configure things like -- do you want to let your friends see who your other friends are? Or hide that info from everyone? In any case, you *get to choose* who can read that. Not even the server-operator is able to read that info, unless you allow them to.
 
 This is a big difference from traditional social networks, like *Instagram*, where the server reads/knows all your data.
-
-## relevant links
-
-* [Fission docs -- sharing private data](https://guide.fission.codes/developers/webnative/sharing-private-data)
-* [discord talk](https://discord.com/channels/478735028319158273/678353918752718848/996476638697099294)
-* [version 1 -- ssc](https://github.com/nichoth/ssc-server)
- 
-
- ## notes
-
-MVP is "online first" / online-only
