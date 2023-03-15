@@ -11,7 +11,7 @@ At a high level this is like *Signal*, the messaging app, in the sense that no o
 
 This project is designed to share images via a social network. It started with using services that are more traditional — a DB and blob host, + UCANs for ID.
 
-In the interest of dogfood though, I've realized that what I'm really looking for is a small scale way to share images with specific people, and I've discovered that [wnfs](https://guide.fission.codes/developers/webnative/file-system-wnfs) already has a way to do read permissions on a per-user basis. It's kind of interesting because it's all based on decryption capabilities instead of access control.
+But [wnfs](https://guide.fission.codes/developers/webnative/file-system-wnfs) already has a way to do read permissions on a per-user basis, so we can e2e encrypt *everything*. It's kind of interesting because it's all based on decryption capabilities instead of access control.
 
 And `wnfs` gives us a common backend / ID-source for users, which makes identity easier, since `webCrypto` private keys cannot be cross-domain.
 
