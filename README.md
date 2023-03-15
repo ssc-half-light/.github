@@ -1,0 +1,2 @@
+# .github
+Hermes social network
