@@ -1,4 +1,0 @@
-# hermes
-
-Hermes social network
-
