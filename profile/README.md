@@ -6,7 +6,7 @@
     >
 </div>
 
-## Focus on privacy and sharing data with known people
+## Private by default social networking
 
 This project is designed to share images via a social network. It started with using services that are more traditional — a DB and blob host, + UCANs for ID.
 
