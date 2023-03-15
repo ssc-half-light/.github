@@ -22,4 +22,4 @@ This is a big difference from traditional social networks, like *Instagram*, whe
 
 ## relevant links
 
-[join a discord server](https://discord.gg/SxWNsDMxT4)
+[join the discord server](https://discord.gg/SxWNsDMxT4)
