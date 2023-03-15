@@ -6,23 +6,6 @@
     >
 </div>
 
-## develop
-This is an example of using `wnfs` + `preact` & [@preact/signals](https://preactjs.com/blog/introducing-signals/). We are using client side routing via the browser's history API in [route-event](https://github.com/nichoth/route-event), because [the navigation API is chrome only](https://github.com/nichoth/hermes/discussions/10).
-
---------------
-
-### Start a local development server:
-```
-npm start
-```
-
-### About the dev setup
-
-#### [public dir](https://vitejs.dev/guide/assets.html#the-public-directory)
-
-> you can place the asset in a special public directory under your project root
-This is [configured as _public](https://github.com/nichoth/hermes/blob/main/vite.config.js#L24)
-
 ## Focus on privacy and sharing data with known people
 
 This project is designed to share images via a social network. It started with using services that are more traditional — a DB and blob host, + UCANs for ID.
