@@ -7,6 +7,7 @@
 </div>
 
 ## Private by default social networking
+At a high level this is like *Signal*, the messaging app, in the sense that no one is able to read your messages except the recipients.
 
 This project is designed to share images via a social network. It started with using services that are more traditional — a DB and blob host, + UCANs for ID.
 
@@ -20,8 +21,6 @@ And `wnfs` gives us a common backend / ID-source for users, which makes identity
 So `wnfs` I think has everything needed for this usecase. At this point it's more a matter of finding time to try this & build some UI for it.
 
 -----------------
-
-The way I've been thinking about this at a high level is that it's like *Signal*, the messaging app, in the sense that no one is able to read your messages except the recipients, but with an added social network aspect. 
 
 The social part is all configurable too, at a pretty granular level. So you can configure things like -- do you want to let your friends see who your other friends are? Or hide that info from everyone? In any case, you *get to choose* who can read that. Not even the server-operator is able to read that info, unless you allow them to.
 
