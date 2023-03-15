@@ -1,7 +1,5 @@
 # hermes [![Netlify Status](https://api.netlify.com/api/v1/badges/f66ada49-9361-4e73-abee-1d538e3b59a3/deploy-status)](https://app.netlify.com/sites/ssc-hermes/deploys)
 
-[see version 1, `ssc`](https://github.com/nichoth/ssc-server)
-
 <div>
     <img style="width: 15vw" src="./hermes_logo_edit.png" alt="Hermes logo"
         title="Hermes logo"
