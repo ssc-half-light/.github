@@ -18,3 +18,8 @@ But, [wnfs](https://guide.fission.codes/developers/webnative/file-system-wnfs) a
 The social part is all configurable too, at a pretty granular level. So you can configure things like -- do you want to let your friends see who your other friends are? Or hide that info from everyone? In any case, you *get to choose* who can read that. Not even the server-operator is able to read that info, unless you allow them to.
 
 This is a big difference from traditional social networks, like *Instagram*, where the server reads/knows all your data.
+
+
+## relevant links
+
+[join a discord server](https://discord.gg/SxWNsDMxT4)
