@@ -7,7 +7,7 @@
 </div>
 
 ## Private by default social networking
-At a high level this is like *Signal*, the messaging app, in the sense that no one is able to read your messages except the recipients, not even the server.
+At a high level this is like *Signal*, the messaging app, in the sense that no one is able to read your messages except the recipients, not even the server, but with an added social network aspect.
 
 This project is designed to share images via a social network. It started with using services that are more traditional — a DB and blob host, + UCANs for ID.
 
