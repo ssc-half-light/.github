@@ -7,7 +7,7 @@
 </div>
 
 ## what is this?
-This is a server/social-network for hosting images. All content is end to end encrypted, so you know who is able to see what.
+This is a server/social-network for hosting images. All content is end to end encrypted, so you know exactly who is able to see your content.
 
 ## Private by default social networking
 At a high level this is like *Signal*, the messaging app, in the sense that no one is able to read your messages except the recipients, not even the server, but with an added social network aspect.
