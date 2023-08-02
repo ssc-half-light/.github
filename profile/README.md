@@ -1,4 +1,4 @@
-# hermes [![Netlify Status](https://api.netlify.com/api/v1/badges/0543950e-fad8-4ba6-a35a-9ccd6c23d62f/deploy-status)](https://app.netlify.com/sites/ssc-hermes/deploys)
+# Half Light [![Netlify Status](https://api.netlify.com/api/v1/badges/0543950e-fad8-4ba6-a35a-9ccd6c23d62f/deploy-status)](https://app.netlify.com/sites/ssc-hermes/deploys)
 
 <div>
     <img style="width: 15vw" src="./hermes_updated_logo_2023.png" alt="Hermes logo"
