@@ -10,7 +10,7 @@
 This is a server/social-network for hosting images. All posts are end to end encrypted, so you know exactly who is able to see your content.
 
 ## Private by default social networking
-At a high level this is like *Signal*, the messaging app, in the sense that no one is able to read your messages except the recipients, not even the server, but with an added social network aspect.
+All content is e2e encrypted. At a high level this is like *Signal*, the messaging app, in the sense that no one is able to read your messages except the recipients, not even the server, but with an added social network aspect.
 
 This project is designed to share images via a social network. It started with using services that are more traditional — a DB and blob host, + UCANs for ID.
 
