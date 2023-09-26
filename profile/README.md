@@ -4,7 +4,7 @@
 
 <div>
     <img style="width: 15vw"
-        src="./half_light_brand_block.svg"
+        src="./brand_block.svg"
         alt="Half Light logo"
         title="Hermes logo"
     >
