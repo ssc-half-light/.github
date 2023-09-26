@@ -1,7 +1,11 @@
 # Half Light [![Netlify Status](https://api.netlify.com/api/v1/badges/0543950e-fad8-4ba6-a35a-9ccd6c23d62f/deploy-status)](https://app.netlify.com/sites/ssc-hermes/deploys)
 
+
+
 <div>
-    <img style="width: 15vw" src="./half-light-logo_block.png" alt="Hermes logo"
+    <img style="width: 15vw"
+        src="./logo_block_halflight_white-eyes.png"
+        alt="Half Light logo"
         title="Hermes logo"
     >
 </div>
