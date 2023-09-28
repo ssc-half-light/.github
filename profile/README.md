@@ -1,24 +1,22 @@
 # Half Light [![Netlify Status](https://api.netlify.com/api/v1/badges/0543950e-fad8-4ba6-a35a-9ccd6c23d62f/deploy-status)](https://app.netlify.com/sites/ssc-hermes/deploys)
 
-
-
 <div>
-    <img style="width: 15vw"
+    <img style="width: 20vw"
         src="./brand_block.svg"
         alt="Half Light logo"
         title="Hermes logo"
     >
 </div>
 
+[bicycle.codes/halflight](https://www.bicycle.codes/halflight)
+
 ## what is this?
-This is a server/social-network for hosting images. All posts are end to end encrypted, so you know exactly who is able to see your content.
+This is a server/social-network for sharing images. All posts are end to end encrypted, so you know exactly who is able to see your content.
 
 ## Private by default social networking
-All content is e2e encrypted. At a high level this is like *Signal*, the messaging app, in the sense that no one is able to read your messages except the recipients, not even the server, but with an added social network aspect.
+All content is e2e encrypted. That means no one is able to read your messages except the recipients, not even the server operator.
 
-This project is designed to share images via a social network. It started with using services that are more traditional — a DB and blob host, + UCANs for ID.
-
-But, [wnfs](https://guide.fission.codes/developers/webnative/file-system-wnfs) already has a way to do read permissions on a per-user basis, so we can e2e encrypt *everything*. It's kind of interesting because it's all based on decryption capabilities instead of access control.
+This project is designed to share images via a social network. It started with using services that are more traditional — a DB and blob host, + UCANs for ID. But, [wnfs](https://guide.fission.codes/developers/webnative/file-system-wnfs) has a way to set read permissions on a per-user basis, so we can e2e encrypt *everything*. It's interesting because it is based on decryption capabilities instead of access control.
 
 -----------------
 
@@ -29,4 +27,6 @@ This is a big difference from traditional social networks, like *Instagram*, whe
 
 ## relevant links
 
-[join the discord server](https://discord.gg/SxWNsDMxT4)
+* [join the discord server](https://discord.gg/SxWNsDMxT4)
+* [bicycle.codes/halflight](https://www.bicycle.codes/halflight)
+
