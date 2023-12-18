@@ -1,4 +1,5 @@
-# Half Light [![Netlify Status](https://api.netlify.com/api/v1/badges/0543950e-fad8-4ba6-a35a-9ccd6c23d62f/deploy-status)](https://app.netlify.com/sites/ssc-hermes/deploys)
+# Half Light
+[![Netlify Status](https://api.netlify.com/api/v1/badges/057c1bf5-d893-41d2-b977-b81caabc6504/deploy-status)](https://app.netlify.com/sites/half-light/deploys)
 
 <div>
     <img style="width: 20vw"
