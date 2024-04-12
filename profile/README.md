@@ -29,5 +29,4 @@ This is a difference from traditional social networks, like *Instagram*, where t
 ## relevant links
 
 * [join the discord server](https://discord.gg/SxWNsDMxT4)
-* [bicycle.codes/halflight](https://www.bicycle.codes/halflight)
 
